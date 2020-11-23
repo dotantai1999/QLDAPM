@@ -1,0 +1,22 @@
+.container-header {
+    background: linear-gradient(90.3deg, rgba(243, 70, 128, 0.6) 0%, rgba(68, 172, 248, 0.6) 100%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-family: Mohave;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    margin-left: 20px;
+}
+
+.user-icon {
+    background: #ffffff;
+    border-radius: 5px;
+    font-size: 40px;
+    margin-right: 20px;
+    color: #c4c4c4;
+}
